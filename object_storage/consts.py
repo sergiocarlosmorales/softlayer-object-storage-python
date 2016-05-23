@@ -21,11 +21,13 @@ DATACENTERS = [
     'mil01',  # IT - Lombardy - Milan
     'mon01',  # CA - Quebec - Montreal
     'par01',  # FR - Paris
+    'sao01',  # BR - SP - São Paulo
     'sjc01',  # US - California - San Jose
     'sng01',  # SG - Singapore
     'syd01',  # AU - New South Wales - Sydney
     'tor01',  # CA - Ontario - Toronto
     'tok02',  # JP - Tokyo
+    'wdc',    # US - DC - District of Columbia 
 ]
 
 PUBLIC_SUFFIX = 'objectstorage.softlayer.net'
